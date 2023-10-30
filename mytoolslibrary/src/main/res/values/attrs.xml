@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- 圆形 -->
+    <declare-styleable name="RoundImageView">
+        <attr name="radio" format="dimension" />
+        <attr name="radioTopLeft" format="dimension" />
+        <attr name="radioTopRight" format="dimension" />
+        <attr name="radioBottomLeft" format="dimension" />
+        <attr name="radioBottomRight" format="dimension" />
+    </declare-styleable>
+</resources>
